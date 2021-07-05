@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="" tvg-name="Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cHyNrZzi5txPyseWEIba9WK7NA.jpg"
 #EXTINF:-1,ESPN  sur
 http://ultraplay.org:80/DANIEL13W/2019XTR/188
 #EXTINF:-1,ESPN 2 sur
@@ -18,3 +17,11 @@ http://ultraplay.org:80/DANIEL13W/2019XTR/210
 https://29hm3pwm68.azcdn107.net:8443/hls/lqo9fv.m3u8?s=usScqjXcbmeV9GqNAQihJw&e=1625534867
 #EXTINF:-1,Universal
 https://29hm3pwm68.azcdn107.net:8443/hls/9f8fu2.m3u8?s=Wa5YLPKkCwoYfLCBeA6N6Q&e=1625540679
+#EXTINF:-1,AXN
+https://29hm3pwm68.azcdn107.net:8443/hls/ct1xnwfz77gc.m3u8?s=4x6FJm40WKCaxn7vuFBhtA&e=1625541074
+#EXTINF:-1,AMC
+https://29hm3pwm68.azcdn107.net:8443/hls/mh2yp.m3u8?s=lO1iFX56UrVjNEBGyVpI1g&e=1625541147
+#EXTINF:-1,Studio Universal
+https://29hm3pwm68.azcdn107.net:8443/hls/01pjgp28gp0u.m3u8?s=l9GC-OyJ60ivnOMZ-Zafgw&e=1625541218
+#EXTINF:-1,Uno
+https://infinity-c11.youboranqs01.com/ping?diffTime=5001&bitrate=3766016&throughput=54272375.915744476&fps=29.97002997002997&droppedFrames=1&playrate=1&timemark=1625519811809&system=movistargo&sessionRoot=U_19262_mo82x7t2sj4kyrl&pingTime=5&code=U_19262_mo82x7t2sj4kyrl_1625519801802
