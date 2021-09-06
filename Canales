@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1,ESPN  sur
-http://ultraplay.org:80/DANIEL13W/2019XTR/188
-#EXTINF:-1,ESPN 2 sur
-http://ultraplay.org:80/DANIEL13W/2019XTR/189
-#EXTINF:-1,ESPN 3 sur
-http://ultraplay.org:80/DANIEL13W/2019XTR/190
-#EXTINF:-1,FOX PREMIUM ACTION
-http://ultraplay.org:80/DANIEL13W/2019XTR/197
-#EXTINF:-1,FOX SPORTS 
-http://ultraplay.org:80/DANIEL13W/2019XTR/206
-#EXTINF:-1,FOX SPORTS 2
-http://ultraplay.org:80/DANIEL13W/2019XTR/208
-#EXTINF:-1,FOX SPORTS 3
-http://ultraplay.org:80/DANIEL13W/2019XTR/210
-#EXTINF:-1,FOX SPORTS 10
-https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/dash/TNT_HD_Arg-audio_20001=144800.track_id=20001-10119480845139.mp4
+#EXTINF:-1,Cine Movies Action
+http://54.39.16.47:25461/live/779660930/779660930/1475.m3u8
