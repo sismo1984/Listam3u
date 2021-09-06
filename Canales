@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Cine Movies Action
 http://54.39.16.47:25461/live/779660930/779660930/1475.m3u8
+#EXTINF:-1 tvg-logo="http://play-lh.googleusercontent.com/DWtIN086zVp_0-ucEHBtkRPpUAljG7iwRPizo8AlCdADPuPPGr1x7jrHA5qx9MjnEc4=s180-rw",IPTV 593 http://play.google.com/store/apps/details?id=com.cnmonta.listasm3u
+http://laodicean-debits.000webhostapp.com/wp-content/uploads/2021/07/videoIPTV593.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportes Premium",01 | WIN SPORTS +
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40010/canal1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes Premium",02 | TUDN
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40020/canal2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png" group-title="Deportes Premium",03 | GOL TV
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40030/canal3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="Deportes Premium",04 | CLARO SPORTS
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40040/canal4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="Deportes Premium",05 | DIRECTV SPORTS
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40050/canal5
+#EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/101/Logotipo_M%20LaLiga1_Negativo_RGB.png" group-title="Deportes Premium",06 | MOVISTAR LALIGA
+http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40060/canal6
