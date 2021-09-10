@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="premium",warner
 http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/77_.m3u8?token=9oplU/8Ban-hZhaRo9UxSw&expires=1631264855
+#EXTINF:-1 group-title="premium",amc 
+http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/624_.m3u8?token=6IJdaT-9Eufx1rl95fD0sQ&expires=1631264856
+#EXTINF:-1 group-title="premium",cinecanal
+http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/80_.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="Deportes Premium",01 | WIN SPORTS +
-http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40010/canal1
+http//iptvhd.club:25461/live/aptvall/G0ncBkNuWo/491_.m3u8?token=89jBMUfUd3Bgslg4tMQe7g&expires=1631264848 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes Premium",02 | TUDN
 http://ws4q2xtp3r5r.p18.rt3.io/rtp/239.1.1.11:40020/canal2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png" group-title="Deportes Premium",03 | GOL TV
